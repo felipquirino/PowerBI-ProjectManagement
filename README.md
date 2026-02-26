@@ -1,7 +1,7 @@
-# Portfolio Dashboard - [Project Managament (Gestão de Projetos)]
+# Portfolio Dashboard - [Project Management]
 
-![Dashboard Preview](<img width="1492" height="839" alt="image" src="https://github.com/user-attachments/assets/6fe7d9f5-bbb5-4000-86c7-62352b51a295" />
-)
+![Dashboard Preview]( <img width="1492" height="839" alt="PmBIImg" src="https://github.com/user-attachments/assets/5e435120-9661-4365-9251-946e65ec6c3d" />
+ )
 
 ## Quick Overview
 - **Tool:** Power BI Desktop
