@@ -5,3 +5,6 @@
 ## Quick Overview
 - **Tool:** Power BI Desktop
 - **Goal:** Practice data storytelling and DAX optimization.
+
+Link to Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMTI3NTRlMzktMTIzOS00MGYwLWFlYjgtOWRjOWVjNDZjZjJmIiwidCI6ImQwMjJlZTYyLTI2MTMtNGM0YS1iMjVmLTQwMzcwMDNkOTFkZCJ9
